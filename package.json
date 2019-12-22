@@ -1,0 +1,22 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shusten/WebApiNode.git"
+  },
+  "author": "Cov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shusten/WebApiNode/issues"
+  },
+  "homepage": "https://github.com/shusten/WebApiNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
